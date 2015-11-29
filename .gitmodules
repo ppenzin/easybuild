@@ -1,6 +1,6 @@
 [submodule "cmake-modules-webos"]
 	path = cmake-modules-webos
-	url = https://github.com/FreeWebOS/cmake-modules-webos.git
+	url = https://github.com/ppenzin/cmake-modules-webos.git
 [submodule "libsandbox"]
 	path = libsandbox
-	url = https://github.com/FreeWebOS/libsandbox.git
+	url = https://github.com/ppenzin/libsandbox.git
